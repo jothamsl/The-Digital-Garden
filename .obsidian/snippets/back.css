@@ -1,0 +1,17 @@
+.workspace-leaf-content[data-type="graph"] .view-content {
+  z-index: 0;
+}
+.workspace-leaf-content[data-type="graph"] .view-content::after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  background-image: url(https://picsum.photos/200);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(4px) brightness(50%) saturate(50%);
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+

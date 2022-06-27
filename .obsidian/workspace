@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "f4b4b083ff535f39",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a80ab832316561",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edca5ebc0c7ea01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "68aa1ae965fd9650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "602836dbc375dfc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "649c9f3974fe3632",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e16a3474d3112f7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0ee505ec0156a8c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dc93f8028b41a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6fe97199cbb9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3743611d7f9a1ca9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b75fae2f6a2a6890",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "286eb6e75bf98578",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af3bdddffd202743",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0ef09330f7ce24e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a21611b4668ea78",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "33e2b7dde373b924",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dd4f3b59c280b21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5,
+    "collapsed": true
+  },
+  "active": "91a80ab832316561",
+  "lastOpenFiles": [
+    "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg",
+    "Media/Evergreen_Notes_03_cyjnrl_shrink_urtoqe.webp",
+    "Media/619b83381ca92500180c306c.webp",
+    "Temp/Bibliography Template.md",
+    "Temp/Seed Template.md",
+    "Temp/Root Template.md",
+    "Bibliography/Think Like a Programmer.md",
+    "Bibliography/The Art of Computer Programming, vol 1, chap 1.md",
+    "Bibliography/Refraction of light waves.md",
+    "Bibliography/Electromagnetic Radiation.md"
+  ]
+}

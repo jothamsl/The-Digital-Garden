@@ -1,0 +1,25 @@
+{
+  "frames": [
+    {
+      "url": "https://twitter.com",
+      "displayName": "Twitter",
+      "icon": "twitter",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "customCss": ""
+    },
+    {
+      "url": "https://medium.com/",
+      "displayName": "Medium",
+      "icon": "book-open",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "defaultViewMode": "preview",
+  "vimMode": true
+}
