@@ -7,9 +7,11 @@
         "id": "91a80ab832316561",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg"
+            "file": "The Path of a Polymath.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -63,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg",
+                "file": "The Path of a Polymath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg",
+                "file": "The Path of a Polymath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,12 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg"
+                "file": "The Path of a Polymath.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -170,15 +171,15 @@
   },
   "active": "91a80ab832316561",
   "lastOpenFiles": [
-    "Media/garden-main_ayoaqo_shrink_szbgc7.jpeg",
-    "Media/Evergreen_Notes_03_cyjnrl_shrink_urtoqe.webp",
-    "Media/619b83381ca92500180c306c.webp",
-    "Temp/Bibliography Template.md",
-    "Temp/Seed Template.md",
-    "Temp/Root Template.md",
-    "Bibliography/Think Like a Programmer.md",
-    "Bibliography/The Art of Computer Programming, vol 1, chap 1.md",
-    "Bibliography/Refraction of light waves.md",
-    "Bibliography/Electromagnetic Radiation.md"
+    "The Path of a Polymath.md",
+    "🌰  Seeds/Capturing Information (Building a second brain).md",
+    "Bibliography/A Brief History & Ethos of the Digital Garden.md",
+    "🌰  Seeds/How to Read Syntopically.md",
+    "🌰  Seeds/The work required to have an opinion.md",
+    "🌰  Seeds/Twenty five pages a day.md",
+    "🌰  Seeds/Guildlines to attain a good Matehmatical Proof.md",
+    "🌰  Seeds/Focus, the Ultimate Guide on how to Improve Focus and Concentration.md",
+    "🌰  Seeds/Building a Second Brain.md",
+    "🥭  Fruits/The Fundamentals of Thinking.md"
   ]
 }
