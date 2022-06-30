@@ -6,7 +6,7 @@ Date Created:: 2022-01-01
 - - - 
 
 ## Search
-Search problems consists of an [[CS50AI, Lecture 0#^eeb615|agent]] that is given an [[initial state]] and a [[goal state]] through which the agent is to find a path or a solution to get from the initial to the final state. Google maps for example employs the use of search algorithms by taking your current location as the initial state and searches for the best path to your final state.
+Search problems consists of an [[CS50AI, Lecture 0#^eeb615|agent]] that is given an initial state and a goal state through which the agent is to find a path or a solution to get from the initial to the final state. Google maps for example employs the use of search algorithms by taking your current location as the initial state and searches for the best path to your final state.
 
 ![[Pasted image 20220101173129.png]]
 
@@ -49,6 +49,6 @@ Nodes contain information that makes them very useful for the purposes of search
 
 Once the node is chosen, by virtue of storing the *parent node* and the action that led from the parent to the current node, it is possible to trace back the steps taken to get to this presumed goal state from the initial state. And the set of steps would then be known as the *solution*.
 
-**Nodes** are nothing but a [[data structure]], they just hold necessary information and nothing more. To search through the nodes, we make use of **Search algorithms**.
+**Nodes** are nothing but a data structure, they just hold necessary information and nothing more. To search through the nodes, we make use of **Search algorithms**.
 
 **Frontier** → The frontier is a mechanism (or data-structure) that contextually manages the nodes.
