@@ -1,14 +1,18 @@
-{
+i{
   "main": {
     "id": "f4b4b083ff535f39",
     "type": "split",
     "children": [
       {
-        "id": "4d66e2ed5598bfb5",
+        "id": "91a80ab832316561",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Path of a Polymath.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Path of a Polymath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Path of a Polymath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,28 +156,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Path of a Polymath.md"
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 324.5,
     "collapsed": true
   },
-  "active": "4d66e2ed5598bfb5",
+  "active": "91a80ab832316561",
   "lastOpenFiles": [
+    "The Path of a Polymath.md",
+    "🌰  Seeds/Capturing Information (Building a second brain).md",
+    "Bibliography/A Brief History & Ethos of the Digital Garden.md",
     "🌰  Seeds/How to Read Syntopically.md",
-    "Bibliography/CS50AI, Lecture 0.md",
-    "Bibliography/Electromagnetic Radiation.md",
-    "Bibliography/Electromagnetic Waves and the Electromagnetic Spectrum.md",
-    "Bibliography/Understanding your Circle of Competence, How Warren Buffett Avoids Problems.md",
-    "🌰  Seeds/The Central Dogma of Molecular Biology.md",
-    "🌰  Seeds/Guildlines to attain a good Matehmatical Proof.md",
     "🌰  Seeds/The work required to have an opinion.md",
     "🌰  Seeds/Twenty five pages a day.md",
-    "🌰  Seeds/Building a Second Brain.md"
+    "🌰  Seeds/Guildlines to attain a good Matehmatical Proof.md",
+    "🌰  Seeds/Focus, the Ultimate Guide on how to Improve Focus and Concentration.md",
+    "🌰  Seeds/Building a Second Brain.md",
+    "🥭  Fruits/The Fundamentals of Thinking.md"
   ]
-}
+} 
