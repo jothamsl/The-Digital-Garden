@@ -6,8 +6,7 @@ Importance: 5
 
 
 
-**References**
-https://fs.blog/the-work-required-to-have-an-opinion/
+
 
 
 

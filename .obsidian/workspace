@@ -1,17 +1,17 @@
-i{
+{
   "main": {
-    "id": "f4b4b083ff535f39",
+    "id": "341f91634515660c",
     "type": "split",
     "children": [
       {
-        "id": "91a80ab832316561",
+        "id": "4219434406597ac7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Path of a Polymath.md",
-            "mode": "preview",
-            "source": true
+            "file": "🥭  Fruits/Cover Letter.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -19,15 +19,23 @@ i{
     "direction": "vertical"
   },
   "left": {
-    "id": "edca5ebc0c7ea01b",
+    "id": "d1d86e6896b8b258",
     "type": "split",
     "children": [
       {
-        "id": "68aa1ae965fd9650",
+        "id": "cf98f15056bf7e85",
         "type": "tabs",
         "children": [
           {
-            "id": "602836dbc375dfc4",
+            "id": "98f907d587c307a0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "20818ba4036b78ab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,57 +43,58 @@ i{
             }
           },
           {
-            "id": "649c9f3974fe3632",
+            "id": "5c7c53b52c5e6591",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "e16a3474d3112f7d",
+            "id": "075743df85ba740e",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
-          },
-          {
-            "id": "e0ee505ec0156a8c",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "2dc93f8028b41a34",
+    "id": "57c62ae363803025",
     "type": "split",
     "children": [
       {
-        "id": "4d6fe97199cbb9af",
+        "id": "44bfa4275675f5a3",
         "type": "tabs",
         "children": [
           {
-            "id": "3743611d7f9a1ca9",
+            "id": "0fb4813dbf5c7662",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "36b527568b7b9553",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Path of a Polymath.md",
+                "file": "🥭  Fruits/Cover Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,27 +106,19 @@ i{
             }
           },
           {
-            "id": "b75fae2f6a2a6890",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "286eb6e75bf98578",
+            "id": "76daac248891b57e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Path of a Polymath.md",
+                "file": "🥭  Fruits/Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "af3bdddffd202743",
+            "id": "8c6bc376ac8af5a4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,58 +129,34 @@ i{
             }
           },
           {
-            "id": "e0ef09330f7ce24e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a21611b4668ea78",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "33e2b7dde373b924",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2dd4f3b59c280b21",
+            "id": "02f56c98dc1fbdbf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Path of a Polymath.md"
+                "file": "🥭  Fruits/Cover Letter.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "91a80ab832316561",
+  "active": "4219434406597ac7",
   "lastOpenFiles": [
-    "The Path of a Polymath.md",
-    "🌰  Seeds/Capturing Information (Building a second brain).md",
-    "Bibliography/A Brief History & Ethos of the Digital Garden.md",
-    "🌰  Seeds/How to Read Syntopically.md",
     "🌰  Seeds/The work required to have an opinion.md",
-    "🌰  Seeds/Twenty five pages a day.md",
-    "🌰  Seeds/Guildlines to attain a good Matehmatical Proof.md",
     "🌰  Seeds/Focus, the Ultimate Guide on how to Improve Focus and Concentration.md",
-    "🌰  Seeds/Building a Second Brain.md",
-    "🥭  Fruits/The Fundamentals of Thinking.md"
+    "Bibliography/Refraction of light waves.md",
+    "🎋  Branches/Seeds & Fruits.md",
+    "🎋  Branches/Richard Feynman on Why Questions.md",
+    "Bibliography/CS50, Week 1.md",
+    "Bibliography/CS50AI, Lecture 0.md",
+    "Bibliography/Evolution.md",
+    "🎋  Branches/Guide to Anki Intervals and Learning Steps.md",
+    "🎋  Branches/First Principles Thinking.md"
   ]
-} 
+}

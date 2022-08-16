@@ -1,8 +1,11 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Minimal",
   "translucency": false,
-  "theme": "system",
+  "theme": "obsidian",
   "interfaceFontFamily": "Sofia Pro",
   "textFontFamily": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "back"
+  ],
+  "baseFontSize": 16
 }

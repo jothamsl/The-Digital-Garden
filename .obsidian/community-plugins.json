@@ -19,7 +19,8 @@
   "oz-image-plugin",
   "obsidian-local-images",
   "templater-obsidian",
-  "sliding-panes-obsidian",
   "obsidian-git",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "obsidian-electron-window-tweaker",
+  "obsidian-style-settings"
 ]

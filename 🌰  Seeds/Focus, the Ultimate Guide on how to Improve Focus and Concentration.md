@@ -1,7 +1,6 @@
 # Focus, the Ultimate Guide on how to Improve Focus and Concentration
 
 Author:: [[James Clear]]
-URL:: https://jamesclear.com/focus
 Date Created:: 2022-01-10
 - - -
 - Focus can only occur when we have said yes to one option and no to all other options. In other words, elimination is a prerequisite for focus. 
